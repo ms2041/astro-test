@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'tinos-latin-400-italic';
+  src: url('/fonts/tinos-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'im-fell-double-pica-latin-400-italic';
+  src: url('/fonts/im-fell-double-pica-latin-400-italic.woff2') format('woff2');
+}
+
+.title {
+  font-size: 2rem;
+  font-family: 'tinos-latin-400-italic';
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}

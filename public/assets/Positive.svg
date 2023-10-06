@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2304 2800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2370,0)">
+        <g id="Positive" transform="matrix(1,0,0,1,-0.666667,-3.10862e-13)">
+            <rect x="2370.67" y="0" width="2304" height="2800" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="2370.67" y="0" width="2304" height="2800"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="polaroid" transform="matrix(1,0,0,1,1939.52,-347.902)">
+                    <g id="rect2304x2800" transform="matrix(6.97801,0,0,7.73096,-2451.19,-2110.93)">
+                        <rect x="413.06" y="318.05" width="330.18" height="362.18" style="fill:rgb(26,26,26);"/>
+                    </g>
+                    <g id="square2048" transform="matrix(6.68167,0,0,6.63599,-2279.83,-1702.03)">
+                        <path d="M731.4,333.016C731.4,331.739 730.896,330.514 729.999,329.611C729.102,328.707 727.885,328.2 726.616,328.2L429.674,328.2C428.405,328.2 427.188,328.707 426.291,329.611C425.394,330.514 424.89,331.739 424.89,333.016L424.89,632.004C424.89,633.281 425.394,634.506 426.291,635.409C427.188,636.313 428.405,636.82 429.674,636.82L726.616,636.82C727.885,636.82 729.102,636.313 729.999,635.409C730.896,634.506 731.4,633.281 731.4,632.004L731.4,333.016Z" style="fill:rgb(230,230,230);"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,1271.95,843.592)">
+                    <g transform="matrix(58.3333,0,0,58.3333,2871.07,1498.55)">
+                    </g>
+                    <text x="1623.43px" y="1498.55px" style="font-family:'PhosphorusBromide', 'Phosphorus Bromide';font-size:58.333px;fill:white;">T<tspan x="1668.17px 1719.81px 1764.55px 1795.59px 1845.4px 1897.04px 1932.66px 1972.85px 2017.59px 2069.22px 2118.58px 2176.73px 2220.71px 2268.89px 2310.19px 2354.93px 2385.97px 2435.78px 2487.42px 2535.6px 2580.35px 2628.99px 2689.42px 2738.78px 2787.42px 2828.72px " y="1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px 1498.55px ">HE UNFATHOMABLE UNDERWORLD</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
